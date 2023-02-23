@@ -24,7 +24,34 @@
 
 
 
+<br>
 
+## :pushpin: Projects
+### 1. [Billy A Dream](https://github.com/ChanhoPark-s/Billy-A-Dream.git)
+>개인간 렌탈 거래 플랫폼  (팀 프로젝트)  
+>개발 기간: 2022.09.12 ~ 2022.09.30  
+>  
+>기술 스택:  
+>AWS EC2, AWS RDS Oracle, Java, Spring, Jsp, Tomcat, Html, Css, Javascript, jQuery
+>  
+>[프로젝트 상세 설명](https://github.com/ChanhoPark-s/Billy-A-Dream.git) &nbsp;/&nbsp;
+>[프로젝트 영상](https://youtu.be/JL0fxZF3Tb0) &nbsp;/&nbsp;
+>[Notion 협업](https://diagnostic-raven-02c.notion.site/2e50d5da245f49dfa59e756097219ff6?v=36f05fd3737348478d4ffc22c58814e9) 
+---
+
+### 2. [WMS_corporate_project](https://github.com/ChanhoPark-s/WMS_Project.git)
+>WMS 창고 물류관리 시스템  (팀 프로젝트)  
+>개발 기간: 2022.10.24 ~ 2022.11.24
+>  
+>기술 스택:  
+>AWS EC2, AWS RDS Oracle, Oracle Cloud, Ngrok, Jenkins, Java, Spring, Jsp, Tomcat, Html, Css, Javascript, jQuery, Bootstrap
+>  
+>[프로젝트 상세 설명](https://github.com/ChanhoPark-s/WMS_Project.git) &nbsp;/&nbsp;
+>[프로젝트 영상](https://www.youtube.com/watch?v=gVzC5DC1zgE&t=420s) &nbsp;/&nbsp;
+>[Notion 협업](https://diagnostic-raven-02c.notion.site/1-e754e62847224d21805c4a1de271887b) 
+
+
+---
 ### Hi there 👋
 
 <!--
