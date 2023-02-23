@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=DaeGon%20Lee&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Just%20keep%20going%20straight!&descAlignY=51&descAlign=62)
 
- <h2> 새로운 것이 흥미로운 개발자, 이대곤입니다.</h2>
+ <h2> 성장하는 것이 가장 큰 즐거움인 개발자, 이대곤입니다.</h2>
 
 ### **<h3>:raising_hand:  About Me </h3>** 
 
