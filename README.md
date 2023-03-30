@@ -29,8 +29,6 @@
 ### Frontend
  - HTML, CSS, Javascript, Jsp, Bootstrap, jQuery
 
-<br>
-
 ## :pushpin: Projects
 ### 1. [Billy A Dream](https://github.com/ChanhoPark-s/Billy-A-Dream.git)
 >개인간 렌탈 거래 플랫폼  (팀 프로젝트)  
