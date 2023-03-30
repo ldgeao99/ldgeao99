@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=DaeGon%20Lee&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Just%20keep%20going%20straight!&descAlignY=51&descAlign=62)
 
- <h2> 성장하는 것이 가장 큰 즐거움인 개발자, 이대곤입니다.</h2>
+ <h2> 함께 성장하는 것이 가장 큰 즐거움인 개발자, 이대곤입니다.</h2>
 
 ### **<h3>:raising_hand:  About Me </h3>** 
 
@@ -9,7 +9,7 @@
  - 저는 보유한 지식을 구조화하고 이를 이해하기 쉽게 전달하는 것을 즐깁니다.
  - 그렇기에 더욱 많은 것을 **공유**하기 위해 매일 매일 성장하려고 노력하고 있습니다.
  - 시간이 걸리더라도 학습한 것들을 대부분 기록으로 남기어 더욱 탄탄히 성장하는 것을 지향하고 있습니다.
- - 마지막으로 팀원과 함께 성장하여 점점 더 큰 문제를 해결해 내는 것이 저의 가장 큰 즐거움입니다! 😀😀
+ - 서로 지식을 공유하고 배움의 기회를 만들어가며 함께 발전해 나가는것이 저의 가장 큰 행복입니다. 😀😀
 
 ## :telephone_receiver: Contact & Channel
 - **Email** | **ldgeao99@gmail.com**
