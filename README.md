@@ -15,6 +15,7 @@
 - **Email** | **ldgeao99@gmail.com**
 - **Blog** |  https://ldgeao99-developer.tistory.com/
 
+## :pick: Skills ##
 
 ### Backend
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"><img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
