@@ -35,8 +35,8 @@
 >AWS EC2, AWS RDS Oracle, Java, Spring, Jsp, Tomcat, Html, Css, Javascript, jQuery
 >  
 >[프로젝트 상세 설명](https://github.com/ChanhoPark-s/Billy-A-Dream.git) &nbsp;/&nbsp;
->[프로젝트 영상](https://youtu.be/JL0fxZF3Tb0) &nbsp;/&nbsp;
->[Notion 협업](https://diagnostic-raven-02c.notion.site/2e50d5da245f49dfa59e756097219ff6?v=36f05fd3737348478d4ffc22c58814e9) 
+>[프로젝트 영상](https://youtu.be/pJEr0ldINx4) &nbsp;/&nbsp;
+>[Notion 협업](https://superb-cougar-f33.notion.site/d6231419106a49d591a173a5f9768f9f?v=e20fb287b7ee4e09a881a5df4ae5b6b6) 
 ---
 
 ### 2. [WMS_corporate_project](https://github.com/ChanhoPark-s/WMS_Project.git)
@@ -48,7 +48,7 @@
 >  
 >[프로젝트 상세 설명](https://github.com/ChanhoPark-s/WMS_Project.git) &nbsp;/&nbsp;
 >[프로젝트 영상](https://www.youtube.com/watch?v=gVzC5DC1zgE&t=420s) &nbsp;/&nbsp;
->[Notion 협업](https://diagnostic-raven-02c.notion.site/1-e754e62847224d21805c4a1de271887b) 
+>[Notion 협업](https://superb-cougar-f33.notion.site/1-7584e4cba9ba45bb92801c9cad74f712) 
 
 
 ---
