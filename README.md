@@ -17,7 +17,7 @@
 - **Portfolio** |   https://drive.google.com/file/d/1nSqNfkbZYze9CdEKyIPnoGO6vmnWeXxA/view?usp=share_link
 ## :pick: Skills ##
 
-### Backend
+### Backend(main)
  - Java, Spring, Oracle
 
 ### Frontend
