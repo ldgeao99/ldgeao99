@@ -39,14 +39,14 @@
 >[Notion 협업](https://superb-cougar-f33.notion.site/d6231419106a49d591a173a5f9768f9f?v=e20fb287b7ee4e09a881a5df4ae5b6b6) 
 ---
 
-### 2. [WMS_corporate_project](https://github.com/ChanhoPark-s/WMS_Project.git)
+### 2. [WMS_corporate_project](https://github.com/ldgeao99/WMS_Project)
 >WMS 창고 물류관리 시스템  (팀 프로젝트)  
 >개발 기간: 2022.10.24 ~ 2022.11.24
 >  
 >기술 스택:  
 >AWS EC2, AWS RDS Oracle, Oracle Cloud, Ngrok, Jenkins, Java, Spring, Jsp, Tomcat, Html, Css, Javascript, jQuery, Bootstrap
 >  
->[프로젝트 상세 설명](https://github.com/ChanhoPark-s/WMS_Project.git) &nbsp;/&nbsp;
+>[프로젝트 상세 설명](https://github.com/ldgeao99/WMS_Project) &nbsp;/&nbsp;
 >[프로젝트 영상](https://www.youtube.com/watch?v=gVzC5DC1zgE&t=420s) &nbsp;/&nbsp;
 >[Notion 협업](https://superb-cougar-f33.notion.site/1-7584e4cba9ba45bb92801c9cad74f712) 
 
