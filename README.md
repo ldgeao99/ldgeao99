@@ -18,13 +18,16 @@
 ## :pick: Skills ##
 
 ### Backend(main)
- - Java, Spring, Oracle
+ - Java, Spring 
 
 ### Frontend
  - HTML, CSS, Javascript, Jsp, Bootstrap, jQuery
 
 ### Deployment
  - Ubuntu, Jenkins, AWS EC2, AWS RDS
+
+### Database
+ - Oracle
 
 <br>
 
