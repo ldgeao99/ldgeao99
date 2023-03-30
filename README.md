@@ -21,7 +21,7 @@
  - Java, Spring, Oracle, Jenkins 
 
 ### Frontend
- - HTML, CSS, Javascript, Bootstrap, jQuery
+ - HTML, CSS, Javascript, Jsp, Bootstrap, jQuery
 
 ### IDE
  - Eclipse, Visual Studio Code
