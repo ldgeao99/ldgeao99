@@ -27,14 +27,14 @@
  - HTML, CSS, Javascript, Jsp, Bootstrap, jQuery
 
 ## :pushpin: Projects
-### 1. [Billy A Dream](https://github.com/ChanhoPark-s/Billy-A-Dream.git)
+### 1. [Billy A Dream](https://github.com/ldgeao99/Billy-A-Dream)
 >개인간 렌탈 거래 플랫폼  (팀 프로젝트)  
 >개발 기간: 2022.09.12 ~ 2022.09.30  
 >  
 >기술 스택:  
 >AWS EC2, AWS RDS Oracle, Java, Spring, Jsp, Tomcat, Html, Css, Javascript, jQuery
 >  
->[프로젝트 상세 설명](https://github.com/ChanhoPark-s/Billy-A-Dream.git) &nbsp;/&nbsp;
+>[프로젝트 상세 설명](https://github.com/ldgeao99/Billy-A-Dream) &nbsp;/&nbsp;
 >[프로젝트 영상](https://youtu.be/pJEr0ldINx4) &nbsp;/&nbsp;
 >[Notion 협업](https://superb-cougar-f33.notion.site/d6231419106a49d591a173a5f9768f9f?v=e20fb287b7ee4e09a881a5df4ae5b6b6) 
 ---
