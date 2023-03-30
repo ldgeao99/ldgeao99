@@ -14,7 +14,7 @@
 ## :telephone_receiver: Contact & Channel
 - **Email** | **ldgeao99@gmail.com**
 - **Blog** |  https://ldgeao99-developer.tistory.com/
-
+- **Portfolio** |  https://drive.google.com/file/d/1nSqNfkbZYze9CdEKyIPnoGO6vmnWeXxA/view?usp=share_link
 ## :pick: Skills ##
 
 ### Backend
